@@ -1,0 +1,25 @@
+html {
+    background-color: rgba(97, 114, 190, 0.438);
+    text-align: center;
+}
+#intro {
+    font-size: 20px;
+}
+h1 {
+    position: relative;
+}
+#teams{
+    list-style-type: none;
+}
+.yellow-text{
+    color: rgba(0, 0, 0);
+}
+#brown-text{
+    color: brown;
+}
+.red-text{
+    color: red
+}
+.line{
+    border: 1px solid black;
+}
